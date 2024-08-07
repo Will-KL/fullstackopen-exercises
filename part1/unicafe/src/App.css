@@ -1,0 +1,5 @@
+.statistic-line {
+    display: flex;
+    justify-content: space-between;
+    color: #333;
+  }
