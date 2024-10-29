@@ -5,6 +5,10 @@ Create React project using Vite:
 npm create vite@latest part1 -- --template react
 cd into project
 npm install
-
-Start application:
 npm run dev
+
+Node.js
+npm start
+npm update
+npm install
+node_modules/.bin/nodemon index.js
